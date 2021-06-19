@@ -1,0 +1,10 @@
+CENTRAL localhost
+AUTH1 localhost
+AUTH2 localhost
+SERVER1 localhost
+SERVER2 localhost
+SERVER3 localhost
+NODE1 localhost
+NODE2 localhost
+NODE3 localhost
+CENTRALSERVERTOKEN localhost
